@@ -1,0 +1,6 @@
+*.pyc.
+*.pyc
+.idea
+*.sqlite
+*.png
+shell.ps1

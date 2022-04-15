@@ -1,0 +1,5 @@
+look
+ntlk
+networkx
+matplotlib
+SpeechRequirement
